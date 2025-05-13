@@ -1,0 +1,29 @@
+DeFAI Mint is a killer use case at the intersection of DeFAI and NFTs—radically abstracting Web3 UX.
+
+## 🎯 The Endgame of Crypto Investing: DeFAI × NFT
+Users do only one thing: mint an NFT.
+Each NFT becomes a wallet, an AI agent, and an autonomous DeFi executor.
+
+The minted amount is deposited into a corresponding Vault, and a pre-defined AI-driven strategy is triggered automatically.
+The user's risk is strictly capped at the mint amount—nothing more.
+
+## ✊ Express Belief, Execute Capital
+Each NFT represents not just a strategy, but a belief.
+By minting, the user stakes not only their capital, but their conviction—on-chain.
+
+- Bet on Trump with full conviction
+- Believe Solana will win the L1/L2 wars
+
+DeFAI Mint turns investment into ideological execution.
+
+## ⚙️ Why Solana? — Metaplex × Agent Kit
+This is only possible because of Solana’s advanced developer stack:
+- Metaplex Execute + Asset Signer turn NFTs into live autonomous agents
+- Solana Agent Kit v2 tightly integrates LangChain, Execute, and on-chain strategy triggers
+Solana isn’t optional—it’s essential.
+- Solana is a more successful L1 in real business fields, with a strong user base and a mature ecosystem.
+- Solana has a culture that truly values builders and founders—and it will remain the epicenter for high-potential dApps and tokens going forward.
+
+## 🧱 Beliefs, Stored Permanently
+All belief messages attached to NFTs are stored permanently on Walrus, a decentralized storage protocol.
+It’s where ideology meets history, on-chain.
