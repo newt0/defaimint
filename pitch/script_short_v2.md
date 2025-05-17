@@ -87,18 +87,23 @@ but with none at all.
 
 ## 🧠 TECH: Built on Solana, Powered by Execution
 
-“NFT = DeFAI Agent” is possible only on Solana.
+“NFT = AI Agent” isn’t just a concept.
+It’s real — and only possible on Solana.
 
-We use **Metaplex Execute** to give each NFT its own key and signing ability —
-turning it into a self-custodied agent.
+Metaplex Execute gives each NFT its own private key.
+It can sign, hold, and operate autonomously.
 
-**Solana Agent Kit v2** accelerates development —
-allowing our agents to interact with dApps, social media, bridges, and more.
+Solana Agent Kit v2 lets our agents interact with dApps, social feeds, and bridges —
+turning them into full-spectrum actors in the crypto world.
 
-This isn’t AI _on_ Solana.
-It’s AI _built into_ Solana.
+This isn’t AI on Solana.
+It’s AI embedded into Solana’s execution layer.
 
-That’s why DeFAI Mint couldn’t exist anywhere else.
+Other chains can simulate this.
+But only Solana makes it natural.
+
+That’s why DeFAI Mint isn’t portable.
+It’s Solana-native by design.
 
 ## 🎯 Vision
 
