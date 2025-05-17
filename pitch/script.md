@@ -10,7 +10,7 @@ Our slogan: _"Mint to DeFAI. Vibe Trading as NFT."_
 ## 🔥 MARKET REALITY: DeFi × AI is Inevitable, Yet Unfair
 
 Crypto investing has surpassed human capacity.
-140,000+ tokens launch daily. Protocols fragment.
+140,000+ tokens launch daily.
 Protocols are fragmented. Volatility is endless.
 
 AI was supposed to help.
