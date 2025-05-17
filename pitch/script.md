@@ -1,4 +1,4 @@
-# ✅ DeFAI Mint Pitch Script （248 seconds）
+# ✅ DeFAI Mint Pitch Script （）
 
 ## Title
 
@@ -125,11 +125,3 @@ All starting from a single mint.
 ## Ending
 
 Let’s Mint to DeFAI.
-Just one mint — and your belief becomes an agent.
-
-One mint. One strategy. One future — powered by AI, not by fear.
-
-DeFAI Mint:
-Where belief becomes strategy. Where conviction becomes capital.
-
-Thank you.
