@@ -107,13 +107,20 @@ It’s Solana-native by design.
 
 ## 🎯 Vision
 
-DeFi × AI currently benefits only the privileged.
+Today, DeFi × AI is a privilege — not a public good.
 
-Our vision: **flatten those benefits**.
-Let everyone participate in belief-driven investing — just by minting.
+Our mission? To flatten access.
+So that anyone, anywhere, can invest by simply minting a belief.
 
-We aim to 10,000× Solana DeFi users and transaction volume —
-through radical simplification.
+We don’t just simplify UX.
+We simplify access to wealth, to strategy — and to conviction.
+
+Our goal?
+10,000× more users.
+10,000× more transactions.
+On Solana.
+
+All starting from a single mint.
 
 ## Ending
 
