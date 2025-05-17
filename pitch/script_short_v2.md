@@ -30,17 +30,23 @@ A new interface that makes belief — not expertise — the key to investing.
 
 ## 💡 SOLUTION: DeFAI Mint — Your Belief, Your Agent
 
-We define DeFAI as _"Vibe Trading"_ —
-a radical simplification of crypto investing into one action: minting an NFT.
+We define DeFAI as _"Vibe Trading"_ — a radical simplification of crypto investing, reduced to a single action: minting an NFT.
 
-Just mint — and your NFT becomes an AI agent.
+You don’t choose tokens.
+You don’t configure strategies.
+You just mint — and your NFT becomes your AI agent.
+
 It holds its own wallet.
-It trades on your behalf.
-It thinks for itself.
+It signs transactions.
+It invests autonomously, across chains.
 
-No DeFi interfaces.
-No setups.
-Just belief-driven automation.
+No dashboards.
+No approvals.
+No friction.
+
+This is belief-driven automation —
+not DeFi as we know it,
+but DeFi as it should be.
 
 ## HOW IT WORKS: Trade What You Believe
 
