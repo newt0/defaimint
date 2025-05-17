@@ -50,14 +50,15 @@ but DeFi as it should be.
 
 ## HOW IT WORKS: Trade What You Believe
 
-Each DeFAI NFT represents a conviction —
-political, philosophical, or protocol-based.
+Each DeFAI NFT embodies a conviction —
+whether it's political, philosophical, or protocol-based.
 
-You don’t choose tokens.
-You choose what you stand for.
+You don’t just pick tokens.
+You pick a position. A belief. A thesis.
 
-Then, the agent trades accordingly —
-autonomously, across chains.
+Then the agent takes over —
+trading autonomously, across chains,
+aligned with what you believe.
 
 ## FEATURES: Safe & Effortless by Design
 
