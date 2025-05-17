@@ -1,9 +1,9 @@
-# ✅ DeFAI Mint — 3-Minute Script for ElevenLabs
+# ✅ DeFAI-Mint — 3-Minute Script for ElevenLabs
 
 **Imagine minting an NFT once — and never worrying about DeFi again.**
 
-We present **DeFAI Mint**.
-Our slogan? _“Mint to DeFAI. Vibe Trading as NFT.”_
+We present **DeFAI-Mint**.
+Our slogan? _“Mint to Deh-Fay-Eye. Vibe Trading as NFT.”_
 
 ### 🔥 MARKET REALITY
 
@@ -23,7 +23,7 @@ Everyone else? Falls further behind.
 AI is no longer the great equalizer.
 It’s the great divider.
 
-That’s why we built **DeFAI Mint** —
+That’s why we built **DeFAI-Mint** —
 a new interface where belief, not expertise, drives investing.
 
 ### 💡 SOLUTION: Vibe Trading
@@ -48,7 +48,7 @@ but DeFi as it should be.
 
 ### 🧭 HOW IT WORKS
 
-Each DeFAI NFT embodies a **conviction** —
+Each Deh-Fay-Eye NFT embodies a **conviction** —
 political, philosophical, or protocol-based.
 
 You don’t just pick assets.
@@ -63,7 +63,7 @@ Fully on-chain.
 ### 🛡 FEATURES: Safe & Effortless
 
 Letting AI manage your money feels risky.
-That’s why we designed DeFAI with two principles:
+That’s why we designed DeFAI-Mint with two principles:
 **Safety. And Simplicity.**
 
 Your mint price equals your trade budget.
@@ -93,7 +93,7 @@ It’s real — and only possible on Solana.
 **Metaplex Execute** gives each NFT its own private key.
 **Solana Agent Kit v2** is the best dev toolkit for crypto-native AI.
 
-DeFAI Mint isn’t portable.
+DeFAI-Mint isn’t portable.
 It’s Solana-native by design.
 
 ### 🎯 VISION
@@ -113,4 +113,4 @@ we simplify it all.
 One mint.
 All on Solana.
 
-**Let’s Mint to DeFAI.**
+**Let’s Mint to Deh-Fay-Eye.**
