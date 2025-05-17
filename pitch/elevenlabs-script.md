@@ -11,40 +11,35 @@ Vibe Trading as NFT.
 ### 🔥 MARKET REALITY
 
 Crypto has surpassed human capacity.
-140,000+ tokens launch daily.
-Protocols fragment. Volatility never ends.
+140,000+ tokens launch daily.  
+Protocols splinter. Volatility never ends.
 
-Ay-Eye was supposed to help.
-Instead, it became a weapon — one only experts know how to wield.
+Ay-Eye was meant to help.  
+Instead, it became a weapon — for experts only.
 
-They get smarter.
-They get richer.
+They get smarter.  
+They get richer.  
+Everyone else falls behind.
 
-Everyone else? Falls further behind.
-
-Ay-Eye is no longer the great equalizer.
+Ay-Eye isn’t the great equalizer.  
 It’s the great divider.
 
-That’s why we built De-Fay-Mint — a new interface where belief, not expertise, drives investing.
+That’s why we built De-Fay-Mint —  
+a new interface where belief, not expertise, drives investing.
 
 ### 💡 SOLUTION: Vibe Trading
 
-We call it Vibe Trading —
-a radical simplification of crypto investing, reduced to one action: minting an NFT.
+We call it Vibe Trading —  
+a radical simplification of crypto investing, reduced to just one action: minting an NFT.
 
-You don’t pick tokens.
-You don’t configure strategies.
+No token picking.  
+No strategy setup.  
+Just mint — and your NFT becomes your AI-agent.
 
-You just mint — and your NFT becomes your AI-agent.
+It holds a wallet, signs, and trades autonomously.
 
-It holds its own wallet.
-It signs transactions.
-It trades autonomously, across chains.
-
-No dashboards. No approvals. No friction.
-
-This is belief-driven automation —
-not Dee-Fye as we know it,
+This is belief-driven automation —  
+not Dee-Fye as we know it,  
 but Dee-Fye as it should be.
 
 ### 🧭 HOW IT WORKS
@@ -63,28 +58,22 @@ Fully on-chain.
 
 ### 🛡 FEATURES: Safe & Effortless
 
-Letting Ay-Eye manage your money feels risky.
-That’s why we designed De-Fay-Mint with two principles:
-Safety. And Simplicity.
+Letting Ay-Eye manage your money sounds risky.  
+So we designed De-Fay-Mint around two things:  
+**Safety. And simplicity.**
 
-Your mint price equals your trade budget.
-No overexposure.
-
-Each NFT has its own wallet.
+Your mint price = your trade budget.  
+Each NFT holds its own wallet.  
 Your funds stay isolated.
 
-No wallet? No Sohl?
-No problem.
+No wallet? No Sohl? No problem.  
+Just log in with Twitter and mint — even without holding Sohl.  
+Cross-chain ready by default.
 
-You can log in with Twitter.
-Mint without holding Sohl.
-And yes — it’s cross-chain ready.
+Once minted, your agent runs on its own.  
+No dashboards. No friction.
 
-Once minted, your agent runs on its own.
-No dashboards. No interactions.
-
-This is Dee-Fye —
-without the friction.
+This is Dee-Fye, simplified.
 
 ### 🧠 TECH: Built on Solana
 
