@@ -1,148 +1,135 @@
-# ✅ DeFAI Mint Pitch Script
+# ✅ DeFAI Mint Pitch Script （248 seconds）
 
 ## Title
 
-"What if you could mint an NFT just once, and AI would manage your assets for you?"
+Imagine minting an NFT once — and never worrying about DeFi again.
 
-We present DeFAI Mint.
-Our slogan: "Mint to DeFAI. AI Agent as NFT."
+We present **DeFAI Mint**.
+Our slogan: _"Mint to DeFAI. Vibe Trading as NFT."_
 
-## 🔥 MARKET&ISSUES: Crypto Investing > Human Capacity
+## 🔥 MARKET REALITY: DeFi × AI is Inevitable, Yet Unfair
 
-Today, crypto investing has far exceeded human cognitive limits.
-Over 140,000 tokens are created daily.
-Thousands of DeFi protocols, new L1s and L2s every year—
-All contributing to UX fragmentation and investor fatigue.
+Crypto investing has surpassed human limits.
+Every single day — over 140,000 new tokens flood the market.
+Protocols are fragmented. Volatility is endless.
 
-Political and social events drive volatility,
-yet users are overwhelmed, not empowered.
+AI was supposed to help.
+Instead, it’s become a weapon —
+one only experts know how to wield.
 
-DeFi × AI is inevitable—
-but needs a new, accessible form.
+They get smarter.
+They get richer.
 
-## PROBLEM: DeFi × AI: Unfair & Immature
+The rest? Fall further behind.
 
-In theory, AI should close skill gaps.
-In reality, it widens them in DeFi.
+AI is no longer the great equalizer.
+It’s the great divider.
 
-While AI democratizes fields like coding and writing,
-in crypto, experts leverage AI to their advantage—
-beginners fall further behind.
+That’s why we built DeFAI Mint:
+A new interface that makes belief — not expertise — the key to investing.
 
-DeFi × AI is still immature.
-Benefits flow unevenly, exacerbating inequality.
+## 💡 SOLUTION: DeFAI Mint — Your Belief, Your Agent
 
-## 💡 SOLUTION: DeFAI Mint: AI Agent as NFT.
+We define DeFAI as _"Vibe Trading"_ — a radical simplification of crypto investing, reduced to a single action: minting an NFT.
 
-We define "DeFAI = Vibe Trading" (abstraction of DeFi/crypto investing) and have compressed its UX to just a single NFT mint.
+You don’t choose tokens.
+You don’t configure strategies.
+You just mint — and your NFT becomes your AI agent.
 
-Just mint an NFT.  
-That NFT becomes your AI agent.  
-It holds its own wallet.  
-It trades on your behalf.  
-It thinks for itself.
+It holds its own wallet.
+It signs transactions.
+It invests autonomously, across chains.
 
-No DeFi interaction.  
-No complex setups.
+No dashboards.
+No approvals.
+No friction.
 
-We call it: Vibe Trading.  
-A new, belief-driven way to invest.
+This is belief-driven automation —
+not DeFi as we know it,
+but DeFi as it should be.
 
-## HOW IT WORKS: DeFAI Mint: Trade What You Believe
+## HOW IT WORKS: Trade What You Believe
 
-Each DeFAI NFT carries a belief-driven strategy —  
-political, philosophical, or protocol-based.
+Each DeFAI NFT embodies a conviction —
+whether it's political, philosophical, or protocol-based.
 
-You don’t choose tokens.  
-You choose conviction.
+You don’t just pick tokens.
+You pick a position. A belief. A thesis.
 
-Then, your NFT agent trades accordingly —  
-across chains, without intervention.
+Then the agent takes over —
+trading autonomously, across chains,
+aligned with what you believe.
 
-## FEATURES: NFT as Safety Layer - Don't Fear the AI.
+## FEATURES: Safe & Effortless by Design
 
-Let’s be honest —  
-letting AI manage your money can feel risky.  
-Even scary.
+Letting AI manage your money sounds risky.
+That’s why DeFAI Mint is built on two principles: safety and simplicity.
 
-That’s why we built DeFAI with safety at its core.
+Your mint price = trade budget. No overexposure.
 
-Your **mint price becomes your trading budget**.  
-There’s no overexposure.  
-Your risk stops the moment you mint.
+Each NFT has a separate wallet. Your funds stay isolated.
 
-Each NFT holds a self-contained wallet.  
-It operates completely independent from yours.
-
-You never interact with DeFi protocols or approvals directly.  
-The NFT serves as a middleware — shielding you from complexity and risk.
-
-And the AI agent?  
-It trades without fear, greed, or panic.  
-Just pure, rational execution.
-
-Risk is minimized —  
-because the NFT acts independently as your wallet, signer, and AI agent.
-
-## FEATURES: Ultimate Effortless UX—for Web2 and Web3 users alike
-
-We designed DeFAI Mint to be effortless —  
-for both Web2 and Web3 users.
-
-No wallet? No SOL?  
+No wallet? No SOL?
 No problem.
 
-You can log in with Twitter.  
-You can mint without a wallet.  
-Even without any SOL.
+You can log in with Twitter.
 
-Cross-chain support is built in.  
-Wallet creation is abstracted with Privy.
+You can mint without holding SOL.
 
-And after minting?  
-There’s nothing left to do.  
-Your AI agent runs independently —  
-trading on-chain, fully visible and verifiable.
+Cross-chain support? Built-in.
 
-This is DeFi — without the friction.
+Once minted, your agent takes over.
+No interfaces. No approvals.
+Fully autonomous. Fully on-chain.
 
-We obsess over every detail of the experience.  
-So you don’t have to.
+This is DeFi — not with more complexity,
+but with none at all.
 
-## 🧠 Technical Architecture
+## 🧠 TECH: Built on Solana, Powered by Execution
 
-"NFT equals DeFAI Agent" —  
-That’s only possible because we fully leverage the Solana ecosystem.
+“NFT = AI Agent” isn’t just a concept.
+It’s real — and only possible on Solana.
 
-At the core is **Metaplex Execute**,  
-which turns NFTs into self-custodied agents.  
-Each NFT holds its own private key,  
-signs transactions,  
-and acts independently — just like a wallet.
+Metaplex Execute gives each NFT its own private key.
+It can sign, hold, and operate autonomously.
 
-Alongside it, we use **Solana Agent Kit v2** —  
-the best-in-class SDK for building autonomous agents.  
-It enables rapid development of agents  
-that interact with dApps, social platforms, and bridges — all on Solana.
+Solana Agent Kit v2 lets our agents interact with dApps, social feeds, and bridges —
+turning them into full-spectrum actors in the crypto world.
 
-This isn’t just AI on-chain.  
-It’s AI _built into_ the chain.
+This isn’t AI on Solana.
+It’s AI embedded into Solana’s execution layer.
 
-That’s why DeFAI Mint couldn’t exist anywhere else.
+Other chains can simulate this.
+But only Solana makes it natural.
 
-## 🎯 Vision & Impact
+That’s why DeFAI Mint isn’t portable.
+It’s Solana-native by design.
 
-Currently, DeFi × AI maximizes benefits for privileged investors, actually widening the gap.
+## 🎯 Vision
 
-Our vision is to "flatten (democratize) the benefits of AI."
-Making NFTs the gateway to Vibe Trading that anyone can participate in.
-As a result, we aim to increase Solana DeFi users and transactions by 10,000 times.
-That is the vision of DeFAI Mint.
+Today, DeFi × AI is a privilege — not a public good.
+
+Our mission? To flatten access.
+So that anyone, anywhere, can invest by simply minting a belief.
+
+We don’t just simplify UX.
+We simplify access to wealth, to strategy — and to conviction.
+
+Our goal?
+10,000× more users.
+10,000× more transactions.
+On Solana.
+
+All starting from a single mint.
 
 ## Ending
 
-_Let's Mint to DeFAI._
-Mint once. Let AI invest across chains, on your behalf.
+Let’s Mint to DeFAI.
+Just one mint — and your belief becomes an agent.
 
-DeFAI Mint is the gateway to a new era where philosophy connects with assets.
-Thank you for your attention.
+One mint. One strategy. One future — powered by AI, not by fear.
+
+DeFAI Mint:
+Where belief becomes strategy. Where conviction becomes capital.
+
+Thank you.
