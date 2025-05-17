@@ -4,7 +4,9 @@ Imagine minting an NFT once — and never worrying about Dee-Fye again.
 
 We present De-Fay-Mint.
 
-Our slogan? “Mint to Deh-Fay-Eye. Vibe Trading as NFT.
+Our slogan —  
+Mint to Deh-Fay-Eye.  
+Vibe Trading as NFT.
 
 ### 🔥 MARKET REALITY
 
@@ -12,7 +14,7 @@ Crypto has surpassed human capacity.
 140,000+ tokens launch daily.
 Protocols fragment. Volatility never ends.
 
-A-I was supposed to help.
+Ay-Eye was supposed to help.
 Instead, it became a weapon — one only experts know how to wield.
 
 They get smarter.
@@ -86,7 +88,7 @@ without the friction.
 
 ### 🧠 TECH: Built on Solana
 
-“NFT = AI-agent isn’t just a concept.
+NFT = AI-agent isn’t just a concept.
 It’s real — and only possible on Solana.
 
 Metaplex-Execute gives each NFT its own private key.
@@ -99,8 +101,7 @@ It’s Solana-native by design.
 
 Today, Dee-Fye and Ay-Eye is a privilege — not a public good.
 
-Our mission?
-To flatten access.
+Our mission is To flatten access.
 So that anyone can invest — by simply minting a belief.
 
 From UX to capital to conviction —
