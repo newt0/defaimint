@@ -62,22 +62,28 @@ aligned with what you believe.
 
 ## FEATURES: Safe & Effortless by Design
 
-Letting AI manage money feels risky.
-That’s why DeFAI is designed for both **safety** and **simplicity**.
+Letting AI manage your money sounds risky.
+That’s why DeFAI Mint is built on two principles: safety and simplicity.
 
-Your mint price becomes your max exposure.
-Each NFT has a separate wallet —
-no risk of draining your assets.
+Your mint price = trade budget. No overexposure.
 
-No wallet? No \$SOL? No problem.
-You can log in with Twitter, mint without holding SOL.
-Cross-chain support is built-in.
+Each NFT has a separate wallet. Your funds stay isolated.
 
-After minting, the AI agent runs on its own.
-No more interacting with DeFi protocols.
-It’s autonomous. Transparent. Verifiable.
+No wallet? No SOL?
+No problem.
 
-This is DeFi — without the friction.
+You can log in with Twitter.
+
+You can mint without holding SOL.
+
+Cross-chain support? Built-in.
+
+Once minted, your agent takes over.
+No interfaces. No approvals.
+Fully autonomous. Fully on-chain.
+
+This is DeFi — not with more complexity,
+but with none at all.
 
 ## 🧠 TECH: Built on Solana, Powered by Execution
 
