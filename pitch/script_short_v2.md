@@ -125,8 +125,8 @@ All starting from a single mint.
 ## Ending
 
 Let’s Mint to DeFAI.
-**One mint. One agent. Cross-chain AI investing — made human.**
+One mint. One agent. Cross-chain AI investing — made human.
 
 DeFAI Mint:
-**Where belief becomes strategy.**
+Where belief becomes strategy.
 Thank you.
