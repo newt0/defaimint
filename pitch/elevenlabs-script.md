@@ -11,7 +11,7 @@ Crypto has surpassed human capacity.
 140,000+ tokens launch daily.
 Protocols fragment. Volatility never ends.
 
-AI was supposed to help.
+A-I was supposed to help.
 Instead, it became a weapon —
 one only experts know how to wield.
 
@@ -20,7 +20,7 @@ They get richer.
 
 Everyone else? Falls further behind.
 
-AI is no longer the great equalizer.
+Ay-Eye is no longer the great equalizer.
 It’s the great divider.
 
 That’s why we built **DeFAI-Mint** —
@@ -34,7 +34,7 @@ a radical simplification of crypto investing, reduced to one action: **minting a
 You don’t pick tokens.
 You don’t configure strategies.
 
-You just mint — and your NFT becomes your AI agent.
+You just mint — and your NFT becomes your AI-agent.
 
 It holds its own wallet.
 It signs transactions.
@@ -62,7 +62,7 @@ Fully on-chain.
 
 ### 🛡 FEATURES: Safe & Effortless
 
-Letting AI manage your money feels risky.
+Letting Ay-Eye manage your money feels risky.
 That’s why we designed DeFAI-Mint with two principles:
 **Safety. And Simplicity.**
 
@@ -72,11 +72,11 @@ No overexposure.
 Each NFT has its own wallet.
 Your funds stay isolated.
 
-No wallet? No SOL?
+No wallet? No Sohl?
 No problem.
 
 You can log in with Twitter.
-Mint without holding SOL.
+Mint without holding Sohl.
 And yes — it’s cross-chain ready.
 
 Once minted, your agent runs on its own.
@@ -87,18 +87,18 @@ without the friction.
 
 ### 🧠 TECH: Built on Solana
 
-“NFT = AI Agent” isn’t just a concept.
+“NFT = AI-agent” isn’t just a concept.
 It’s real — and only possible on Solana.
 
-**Metaplex Execute** gives each NFT its own private key.
-**Solana Agent Kit v2** is the best dev toolkit for crypto-native AI.
+**Metaplex-Execute** gives each NFT its own private key.
+**Solana-Agent-Kit-v2** is the best dev toolkit for crypto-native Ay-Eye.
 
 DeFAI-Mint isn’t portable.
 It’s Solana-native by design.
 
 ### 🎯 VISION
 
-Today, DeFi and AI is a privilege — not a public good.
+Today, DeFi and Ay-Eye is a privilege — not a public good.
 
 Our mission?
 To flatten access.
