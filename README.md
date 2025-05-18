@@ -45,17 +45,3 @@ Built for both DeFi veterans and newcomers, DeFAI Mint removes all complexity fr
 | Cross-chain | Wormhole (optional, planned)        |
 
 ---
-
-## 📁 Project Structure
-
-```bash
-.
-├── app/                # Next.js App Router
-│   ├── mint/           # Mint UI
-│   └── layout.tsx      # Root layout with metadata
-├── components/         # Shared UI components
-├── public/             # Static assets (og-image.jpg etc.)
-├── styles/             # Global styles
-├── lib/                # Utility functions
-└── README.md
-```
