@@ -1,17 +1,28 @@
-# DeFAI Mint — Smart Contract MVP
+# DeFAI Mint - Smart Contract
 
-This is the Anchor-based smart contract for DeFAI Mint — submitted to the Colosseum Breakout Hackathon.
+**DeFAI Mint** transforms NFTs into belief-powered AI agents on Solana.  
+Built for the Colosseum Breakout Hackathon.
 
-🧠 Concept:
-Transform NFTs into belief-powered AI agents on Solana.
+## Features
 
-🚧 MVP in progress — follow this repo for live updates.
+- Mint NFTs representing a conviction (belief)
+- Attach a belief ID to each NFT
+- Update or close belief-based NFTs
+- Integrate with Metaplex Token Metadata via CPI
 
-## Features (Planned)
+## Tech Stack
 
-- [x] Register belief ID with NFT
-- [ ] Metaplex NFT mint integration
-- [ ] AssetSigner & Execute support
-- [ ] Off-chain agent orchestration
+- Solana + Anchor
+- Metaplex Token Metadata (CPI)
+- TypeScript test framework (Mocha)
 
-Built with ❤️ using [Solana](https://solana.com) and [Anchor](https://book.anchor-lang.com/).
+## Local Development
+
+```bash
+anchor build
+anchor test
+```
+
+## License
+
+MIT
