@@ -1,5 +1,0 @@
-Username: @defaimint
-Display Name: DeFAI Mint | 🤖 Vibe Trading as NFT
-Bio: DeFAI Mint simplifies DeFi×AI into a single NFT mint. Belief = Strategy. Mint once. Act forever./Built with @Solana @Metaplex @sendaifun/Founder: @kyohei_nft
-URL: https://linktr.ee/defaimint
-Location: NFT = Agent + Wallet + Signer
