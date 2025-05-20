@@ -1,0 +1,14 @@
+{
+  "name": "SOL_MAXIMIZER",
+  "symbol": "SDFM",
+  "description": "Maximize SOL through staking, liquid staking, and auto-compounding DeFi strategies.",
+  "ideology": "Solana is the future. The most performant L1 deserves full conviction.",
+  "initialStrategy": "Stake SOL → convert to bSOL → deposit in Kamino → monitor and reallocate daily based on APY.",
+  "riskProfile": "moderate",
+  "durationPreference": "long_term",
+  "image": "https://defaimint.xyz/images/sol_maximizer.png",
+  "creator": "FxkR...8Qz",
+  "tags": ["solana", "lst", "yield", "auto", "kamino"],
+  "version": "1.0",
+  "external_url": "https://defaimint.xyz/nft/sol_maximizer"
+}

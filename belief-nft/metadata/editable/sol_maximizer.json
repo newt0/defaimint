@@ -1,0 +1,11 @@
+{
+  "prompt": "Evaluate best yield opportunities for SOL and LST tokens (e.g. bSOL) on Solana. Choose highest APY protocol daily and reallocate accordingly. Prioritize Kamino, fallback to Solend.",
+  "triggerType": "daily_cron",
+  "modelVersion": "GPT-4o",
+  "autonomyLevel": "auto",
+  "initialDeposit": "100 SOL",
+  "walletControl": "agent_wallet",
+  "exitCondition": "target_value >= 200 SOL",
+  "transferDestination": "user_hw_wallet",
+  "strategyDetail": "Use Kamino as primary LST yield farm. Reallocate if Kamino APY < 3%. Monitor TVL and volatility daily."
+}
